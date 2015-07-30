@@ -1,0 +1,2 @@
+%{"jiffy": {:git, "git://github.com/davisp/jiffy.git", "e008c0c3fffb4f509c5ae6b73b960663d778f231", []},
+  "json": {:hex, :json, "0.3.2"}}
