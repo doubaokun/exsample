@@ -4,7 +4,6 @@ ExSample
 Sample application for Elixir.
 
     mix compile.protocols
-    
     iex --erl '+K true +A 32 +P 10000000' --sname w -pa _build/dev/consolidated -S mix run
 
 Will show:
@@ -17,6 +16,6 @@ Will show:
     TPS: 221791
     ...
 
+
     ./entop w@Bruces-iMac --sname m
-    
     :observer.start()
