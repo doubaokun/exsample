@@ -1,7 +1,9 @@
 ExSample
 =====
 
-Sample application for Elixir.
+Sample application for Elixir. See the related Elixir article: http://blog.eood.cn/elixir
+
+Parallelize processing input JSON String and counting the total processing speed.
 
     mix compile.protocols
     iex --erl '+K true +A 32 +P 10000000' --sname w -pa _build/dev/consolidated -S mix run
