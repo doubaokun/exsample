@@ -18,6 +18,7 @@ Will show:
     TPS: 221791
     ...
 
+Other useful commands:
 
     ./entop w@Bruces-iMac --sname m
     :observer.start()
